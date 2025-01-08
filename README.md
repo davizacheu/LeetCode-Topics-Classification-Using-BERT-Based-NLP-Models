@@ -80,17 +80,9 @@ Data was fetched using GraphQL APIs from LeetCode and pre-processed for training
 - Add support for more granular difficulty levels.
 - Experiment with other transformer-based architectures.
 
-## Contributors
-- **Your Name** - Project Lead
-
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For questions or collaboration:
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: zacheudavi@gmail.com
+- GitHub: [davizacheu](https://github.com/davizacheu)
 
----
-Developed with ❤️ using NLP and Machine Learning.
 
